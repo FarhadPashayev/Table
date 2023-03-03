@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead tr th {
+    border: 1px solid black;
+    padding: 20px;
+}
+tbody tr th{
+    border: 1px solid black;
+    padding: 20px;
+}
+.border{
+    margin: auto;
+}
